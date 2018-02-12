@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Los Portales</string>
+
+    <string name="lblbutton1">Ingresar</string>
+    <string name="lblbutton2">Registrese</string>
+    <string name="lblbutton3">App_05_02</string>
+    <string name="lblbutton4">App_05_02</string>
+    <string name="lblbutton5">App_05_02</string>
+    <string name="lblbutton6">App_05_02</string>
+
+    <string name="lblEditText1">App_05_02</string>
+    <string name="lblEditText2">App_05_02</string>
+    <string name="lblEditText3">App_05_02</string>
+    <string name="lblEditText4">App_05_02</string>
+    <string name="lblEditText5">App_05_02</string>
+
+    <string name="lblTextView1">Usuario</string>
+    <string name="lblTextView2">Password</string>
+    <string name="lblTextView3">App_05_02</string>
+    <string name="lblTextView4">App_05_02</string>
+    <string name="lblTextView5">App_05_02</string>
+
+
+</resources>
